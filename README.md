@@ -2,9 +2,7 @@
 
 ### Keep Your Laptop Secure with a Simple USB Key!
 
-Imagine stepping away from your laptop and it **locks automatically** the moment you unplug your USB. Sounds cool, right? This project lets you use a **USB drive as a key** to lock and unlock your system seamlessly. No more worrying about unauthorized access!
-
----
+Imagine stepping away from your laptop, and it **locks automatically** the moment you unplug your USB. Sounds cool, right? This project lets you use a **USB drive as a key** to lock and unlock your system seamlessly. No more worrying about unauthorized access!
 
 ## 🚀 Features
 
@@ -20,7 +18,7 @@ Imagine stepping away from your laptop and it **locks automatically** the moment
 
 ### 1️⃣ Generate Your USB Key
 
-To set up your security key, you'll first generate an encryption key and store it on your USB.
+You'll first generate an encryption key and store it on your USB to set up your security key.
 
 1. Insert your USB drive.
 2. Open `generate.py` and update the USB path if needed (default: `E:/usb_key.key`).
